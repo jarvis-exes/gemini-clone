@@ -35,15 +35,15 @@ const Main = () => {
                 <img src={assets.compass_icon} alt="" />
               </div>
               <div className="card">
-                <p>Suggest beautiful places to see on an upcoming road trip</p>
+                <p>As a social trend expert, explain a term</p>
                 <img src={assets.bulb_icon} alt="" />
               </div>
               <div className="card">
-                <p>Suggest beautiful places to see on an upcoming road trip</p>
+                <p>Help me to write a formal email to my client</p>
                 <img src={assets.message_icon} alt="" />
               </div>
               <div className="card">
-                <p>Suggest beautiful places to see on an upcoming road trip</p>
+                <p>Look up a Linux shell command for a specific task</p>
                 <img src={assets.code_icon} alt="" />
               </div>
             </div>
