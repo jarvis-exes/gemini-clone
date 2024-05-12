@@ -190,4 +190,8 @@
   .search-box div {
     gap: 5px;
   }
+
+  .main .cards {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
 }
